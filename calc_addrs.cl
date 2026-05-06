@@ -57,7 +57,7 @@
  * Outputs:
  * - Modular inverse denominator buffer (z_heap)
  *
- * -------------------------------
+ * ------------------------------
  * Kernel: hash_ec_point_get
  *
  * Inputs:
