@@ -42,7 +42,7 @@
  * - Intermediate point buffer
  * - Denominator buffer (z_heap)
  *
- * ------------------------------
+ * ----------------------------------------------------------
  * Kernel: heap_invert
  *
  * Inputs:
