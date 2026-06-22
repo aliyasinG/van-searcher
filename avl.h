@@ -1,5 +1,5 @@
 /*
- * Vanitygen, vanity bitcoin address generator 
+ * Vanitygen, vanity bitcoin address generator  
  * Copyright (C) 2011 <samr7@cs.washington.edu>
  *
  * Vanitygen is free software: you can redistribute it and/or modify
