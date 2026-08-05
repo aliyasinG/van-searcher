@@ -1,7 +1,7 @@
 /**
  * base32 (de)coder implementation as specified by RFC4648.
  *
- * Copyright (c) 2010 Adrien Kunysz
+ * Copyright (c) 2010 Adrien Kunysz 
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
